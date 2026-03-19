@@ -1,19 +1,29 @@
 Hi, I'm Kamoliddin 👋
 
-Backend Developer specializing in Django & FastAPI.
-I build scalable APIs, optimize databases, and design production-ready systems.
+Backend Engineer focused on building scalable and production-ready systems using Django & FastAPI.
+
+I specialize in designing high-performance APIs, optimizing database queries, and implementing background processing systems.
 
 🛠 Tech Stack:
 - Python, Django, FastAPI
-- PostgreSQL, Redis
-- Celery, Docker, Nginx
+- PostgreSQL (query optimization, indexing)
+- Redis (caching, pub/sub)
+- Celery (background jobs)
+- Docker, Nginx
 
-📌 Featured Projects:
-- Scalable SaaS API (Django + DRF)
-- Background Job System (Celery + Redis)
-- Real-time Chat (WebSocket)
+📌 Projects:
+
+🔹 Proliga (Fantasy Football Platform)  
+- Built scalable REST APIs for user management, teams, and competitions  
+- Optimized PostgreSQL queries and reduced response time using Redis caching  
+- Implemented background tasks for game updates and notifications  
+
+🔹 Prolesa (Product Rental Management System)  
+- Designed backend for rental workflows, inventory tracking, and payments  
+- Implemented role-based access and business logic for booking lifecycle  
+- Improved performance with query optimization and caching strategies  
 
 📫 Contact:
-- LinkedIn: https://www.linkedin.com/in/komoliddin-fazliddinov
-- Email: komoliddin487@gmail.com
+- LinkedIn: https://www.linkedin.com/in/komoliddin-fazliddinov  
+- Email: komoliddin487@gmail.com  
 - Phone: +998940025234
