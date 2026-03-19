@@ -14,5 +14,6 @@ I build scalable APIs, optimize databases, and design production-ready systems.
 - Real-time Chat (WebSocket)
 
 📫 Contact:
-- LinkedIn: ...
-- Email: ...
+- LinkedIn: https://www.linkedin.com/in/komoliddin-fazliddinov
+- Email: komoliddin487@gmail.com
+- Phone: +998940025234
