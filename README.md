@@ -5,7 +5,7 @@ Backend Engineer focused on building scalable and production-ready systems using
 I specialize in designing high-performance APIs, optimizing database queries, and implementing background processing systems.
 
 🛠 Tech Stack:
-- Python, Django, FastAPI
+- Go, Python, Gin, Django, FastAPI
 - PostgreSQL (query optimization, indexing)
 - Redis (caching, pub/sub)
 - Celery (background jobs)
